@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐓𝐎𝐍𝐘+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐃𝐌𝐗!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐓𝐎𝐌+𝐇𝐎𝐋𝐋𝐀𝐍𝐃+𝐕9+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐃𝐌𝐗!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://te.legra.ph/file/d7534183ed1a85332f9c1.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://te.legra.ph/file/cb78aae6ccc99e24c0758.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
-  <b> ᴛᴏɴy v9 </b>
+  <b>𝐓𝐎𝐌 𝐇𝐎𝐋𝐋𝐀𝐍𝐃 𝐕9</b>
 </h1>
 
 
